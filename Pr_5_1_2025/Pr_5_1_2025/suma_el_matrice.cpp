@@ -46,5 +46,7 @@ void main()
 
    cout<<"Suma elementelor matricei este : "<<s<<endl;
 
+   cout<<"Modificare catre Testrepo3"<<endl;
+
    getch();
 }
